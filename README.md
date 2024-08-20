@@ -1,4 +1,4 @@
-<h1>Hi, I'm Josie!<a href="https://www.linkedin.com/in/josieredd/">Cybersecurity Professional</a> </h1>
+<h1>Hi, I'm Josie! <a href="https://www.linkedin.com/in/josieredd/">Cybersecurity Professional</a> </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
