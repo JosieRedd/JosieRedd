@@ -2,7 +2,10 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
+<h2> Certifications:</h2>
+CompTIA Security+ CE
 
+CompTIA CySA+
 
 Here are some ideas to get you started:
 
