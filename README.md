@@ -1,7 +1,8 @@
 <h1>Hi, I'm Josie! <a href="https://www.linkedin.com/in/josieredd/">Cybersecurity Professional</a> </h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-Managing File Permissions in Linux 
+Linux
+  Managing File Permissions in Linux 
 <h2> Certifications:</h2>
 CompTIA Security+ CE
 
